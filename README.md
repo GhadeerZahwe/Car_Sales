@@ -48,8 +48,8 @@ Each model was built into a preprocessing + modeling **Pipeline**, trained on th
 ## Setup & Installation
 1. **Clone the repository**
 ```bash
-git clone https://github.com/your-username/car-sales.git
-cd car_sales
+git clone https://github.com/GhadeerZahwe/Car_Sales.git
+cd Car_Sales
 ```
 2. **Create & activate a virtual environment**
 ```bash
